@@ -80,6 +80,6 @@ Throughout these tutorials, I improved my Java programming skills and developed 
 
 I also gained practical experience using Git and GitHub to organize and manage my programming projects. The tutorials helped me improve my problem-solving skills and gave me more confidence in writing Java programs.
 
-## GitHub Repository
+## Self-Reflective Report
 
-This repository contains all completed tutorial work for the BIT1123 Object Oriented Programming course.
+[View the Self-Reflective Report](OOP_Self_Reflective_Report_Mugtaba.pdf)
